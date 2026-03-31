@@ -1,0 +1,14 @@
+pandas: Version: 2.2.2
+numpy: Version: 2.0.2
+requests: Version: 2.33.1
+matplotlib : Version: 3.10.0
+pypdf: Version: 6.9.2
+openai: Version: 2.28.0
+pyspark: Version: 4.0.2
+chromadb : Version: 1.5.5
+sentence-transformers : Version: 5.3.0
+langchain: Version: 1.2.12
+langchain-community: Version: 0.4.1
+langchain-text-splitters: Version: 1.1.1
+duckdb: Version: 1.3.2
+pyarrow: Version: 18.1.0
