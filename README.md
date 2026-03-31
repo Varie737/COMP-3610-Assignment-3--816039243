@@ -51,7 +51,8 @@ The notebook builds on the previous assignment work with the same taxi dataset a
 - Combined Spark analytics and document retrieval into an end-to-end question-answering system
 
 ## Repository Structure
-├── assignment3.ipynb
+```
+├── COMP 3610 Assignment3_816039243.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -65,7 +66,7 @@ The notebook builds on the previous assignment work with the same taxi dataset a
     ├── Assessing_the_NYC_Congestion_Pricing_Policy.pdf
     ├── Analysis_and_prediction_of_New_York_City_taxi_and_Uber_demands.pdf
     └── Taxi_Commission_policy_brief_2.9.23.pdf
-
+```
 ## Instructions
 1. Install the requirements, i.e use pip install -r requirements.txt
 2. Insert the API KEY (in the notebook you should see this)
