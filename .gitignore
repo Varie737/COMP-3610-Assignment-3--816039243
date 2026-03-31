@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+artifacts/
+chroma_db/
+
+*.parquet
+*.pth
+*.pkl
+*.joblib
+*.db
+*.sqlite3
